@@ -9,7 +9,8 @@
 
 
 **The sigils created by AOS do not remove duplicate characters, allowing the “S” to produce an exquisite rhythm.**\
-オースティン・オスマン・スペア（AOS）のシジルは重複文字を消さないので、この例での2つの「S」や2つの「O」が絶妙のリズムを生み出している。
+オースティン・オスマン・スペア（AOS）のシジルは重複文字を消さないので、この例での2つの「S」や2つの「O」のように絶妙のリズムを生み出している。<br>
+美しいものは象徴として潜在意識に刻まれやすい。
 
 ## Step 1
 
