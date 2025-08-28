@@ -7,6 +7,9 @@
 </div>
 <br>
 
+**The sigils created by AOS do not remove duplicate characters, allowing the “S” to produce an exquisite rhythm.**\
+スペアのシジルは重複文字を消さないので「S」が絶妙のリズムを生み出せる。
+
 ## Step 1
 
 **Write your desire as a short phrase.**\
