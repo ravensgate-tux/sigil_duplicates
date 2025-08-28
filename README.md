@@ -1,14 +1,9 @@
 # Protocol: Sigil Making Without Removing Duplicate Letters🍏
 # プロトコル：重複文字を消さないAOS流シジル作成🍏
 
-<div align="center">
-<img src="sigil1.png" width="400">
-</div>
-<br>
-
 <div style="display: flex; gap: 10px;">
- <img src="sigil1.png" width="400">  
- <img src="sigil4.png" width="300">
+ <img src="sigil1.png" width="300">  
+ <img src="sigil4.png" width="400">
 </div>
 <br>
 
