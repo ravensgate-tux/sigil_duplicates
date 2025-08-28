@@ -1,22 +1,27 @@
 # Protocol: Sigil Making Without Removing Duplicate Letters
 
-# プロトコル：重複文字を消さないシジル作成
+# プロトコル：重複文字を消さないAOS流シジル作成
+
+<div align="left">
+<img src="sigil1.png" width="200">
+</div>
+<br>
 
 ## Step 1
 
 **Write your desire as a short phrase.**\
 願望を短いフレーズで書く。
 
-👉 Examples / 例：\
-- GET MONEY\
-- PASS THE EXAM\
-- GET PROMOTION\
+👉 Examples / 例：
+- GET MONEY
+- PASS THE EXAM
+- GET PROMOTION
 - PUT THE PROBLEM AWAY
 
-潜在意識は文法を理解しない。\
-だから **NOT** を使う文（DON'T FAIL など）は避けられてきた。\
-むしろ **文法的に正しくなくても自分に響くフレーズ** を作る方が強い。\
-「IMPOSSIBLE IS NOTHING」のように。
+潜在意識は文法を理解しない。
+だから **NOT** を使う文（DON'T FAIL など）は避けられてきた。
+むしろ **文法的に正しくなくても自分に響くフレーズ** を作る方が強い。
+IMPOSSIBLE IS NOTHING のように。
 
 ------------------------------------------------------------------------
 
@@ -41,6 +46,11 @@
 同じ文字が並ぶことで、**リズムやドラムビート**を生み出す。\
 その響きを図案に刻む。
 
+<div align="left">
+<img src="sigil1.png" width="200">
+</div>
+<br>
+
 ------------------------------------------------------------------------
 
 ## Step 5
@@ -48,9 +58,14 @@
 **Stop when it feels alive, not when it looks neat.**\
 整っているかどうかよりも、「生きている」感じがしたら完成。
 
+<div align="left">
+<img src="sigil3.png" width="200">
+</div>
+<br>
+
 ------------------------------------------------------------------------
 
 🍏 *Essence is fine, but rhythm and messiness may be magic.*\
 🍏 エッセンスもいいが、リズムと雑味こそ魔術。
 
-**Hail Eris!**
+**Hail Eris!🍏**
