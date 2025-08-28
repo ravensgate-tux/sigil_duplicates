@@ -2,8 +2,8 @@
 # プロトコル：重複文字を消さないAOS流シジル作成🍏
 
 <div style="display: flex; gap: 10px;">
- <img src="sigil1.png" width="300">  
- <img src="sigil4.png" width="400">
+ <img src="sigil1.png" width="200">  
+ <img src="sigil5.png" width="300">
 </div>
 <br>
 
