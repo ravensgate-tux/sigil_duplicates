@@ -6,6 +6,13 @@
 </div>
 <br>
 
+<div style="display: flex; gap: 10px;">
+ <img src="sigil1.png" width="400">  
+ <img src="sigil4.png" width="300">
+</div>
+<br>
+
+
 **The sigils created by AOS do not remove duplicate characters, allowing the “S” to produce an exquisite rhythm.**\
 スペアのシジルは重複文字を消さないので「S」が絶妙のリズムを生み出せる。
 
