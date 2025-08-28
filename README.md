@@ -48,7 +48,7 @@ IMPOSSIBLE IS NOTHING のように。
 **Let duplicate letters create rhythm.**\
 重複した文字は無駄ではない。\
 同じ文字が並ぶことで、**リズムやドラムビート**を生み出す。\
-その響きを図案に刻む。AOSの場合は「S」が残っていたよね。
+その響きを図案に刻む。AOSの場合も複数の「S」が残っていたよね。
 
 <div align="left">
 <img src="sigil2.png" width="300">
