@@ -68,6 +68,9 @@ IMPOSSIBLE IS NOTHING のように。
 </div>
 <br>
 
+>こちらも参照してください
+> [🌀 「だるま魔術 ver.1 - Daruma Sigilリリース - English (2025年8月26日)](https://github.com/ravensgate-tux/daruma_sigil/blob/main/README.md)
+
 ------------------------------------------------------------------------
 
 🍏 *Essence is fine, but rhythm and messiness may be magic.*\
