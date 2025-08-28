@@ -46,10 +46,10 @@ IMPOSSIBLE IS NOTHING のように。
 **Let duplicate letters create rhythm.**\
 重複した文字は無駄ではない。\
 同じ文字が並ぶことで、**リズムやドラムビート**を生み出す。\
-その響きを図案に刻む。AOSの場合は「S」が残っているよね。
+その響きを図案に刻む。AOSの場合は「S」が残っていたよね。
 
 <div align="left">
-<img src="sigil1.png" width="200">
+<img src="sigil2.png" width="300">
 </div>
 <br>
 
@@ -61,7 +61,7 @@ IMPOSSIBLE IS NOTHING のように。
 整っているかどうかよりも、「生きている」感じがしたら完成。
 
 <div align="left">
-<img src="sigil3.png" width="200">
+<img src="sigil3.png" width="300">
 </div>
 <br>
 
