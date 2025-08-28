@@ -1,6 +1,5 @@
-# Protocol: Sigil Making Without Removing Duplicate Letters
-
-# プロトコル：重複文字を消さないAOS流シジル作成
+# Protocol: Sigil Making Without Removing Duplicate Letters🍏
+# プロトコル：重複文字を消さないAOS流シジル作成🍏
 
 <div align="left">
 <img src="sigil1.png" width="200">
