@@ -78,3 +78,11 @@ IMPOSSIBLE IS NOTHING のように。
 🍏 エッセンスもいいが、リズムと雑味こそ魔術。
 
 **Hail Eris!🍏**
+
+---
+
+こちらもご覧ください➡️[ディスコーディアン魔術アーカイブ](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/README.md)
+
+---
+© 2025 知られざる呪術師（Le Sorcier Inconnu）  
+本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
