@@ -1,0 +1,88 @@
+# Protocol: Sigil Making Without Removing Duplicate Letters🍏
+# プロトコル：重複文字を消さないAOS流シジル作成🍏
+
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img src="sigil1.png" width="200">
+  <img src="sigil5.png" width="300">
+</div>
+<br>
+
+
+**The sigils created by AOS do not remove duplicate characters, allowing the “S” to produce an exquisite rhythm.**\
+オースティン・オスマン・スペア（AOS）のシジルは重複文字を消さないので、この例での2つの「S」や2つの「O」のように絶妙のリズムを生み出している。<br>
+美しいものは象徴として潜在意識に刻まれやすい。
+
+## Step 1
+
+**Write your desire as a short phrase.**\
+願望を短いフレーズで書く。
+
+👉 Examples / 例：
+- GET MONEY
+- PASS THE EXAM
+- GET PROMOTION
+- PUT THE PROBLEM AWAY
+
+潜在意識は文法を理解しない。
+だから **NOT** を使う文（DON'T FAIL など）は避けられてきた。
+むしろ **文法的に正しくなくても自分に響くフレーズ** を作る方が強い。
+IMPOSSIBLE IS NOTHING のように。
+
+------------------------------------------------------------------------
+
+## Step 2
+
+**Do NOT remove duplicate letters.**\
+同じ文字を消さずに残しておく。
+
+------------------------------------------------------------------------
+
+## Step 3
+
+**Arrange the letters into a design.**\
+文字を組み合わせて図案にする。
+
+------------------------------------------------------------------------
+
+## Step 4
+
+**Let duplicate letters create rhythm.**\
+重複した文字は無駄ではない。\
+同じ文字が並ぶことで、**リズムやドラムビート**を生み出す。\
+その響きを図案に刻む。AOSの場合も複数の「S」が残っていたよね。
+
+<div align="left">
+<img src="sigil2.png" width="300">
+</div>
+<br>
+
+------------------------------------------------------------------------
+
+## Step 5
+
+**Stop when it feels alive, not when it looks neat.**\
+整っているかどうかよりも、「生きている」感じがしたら完成。
+
+<div align="left">
+<img src="sigil3.png" width="300">
+</div>
+<br>
+
+>こちらも参照してください<br>
+> [🌀 だるま魔術 ver.1 - Daruma Sigilリリース - English (2025年8月26日)](https://github.com/ravensgate-tux/daruma_sigil/blob/main/README.md)<br>
+> [✏️英語圏レポート：シジル作成時の重複文字の削除についての調査結果をリリース（2025年8月29日）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/chaos_sigils_letter_elimination.md)
+
+------------------------------------------------------------------------
+
+🍏 *Essence is fine, but rhythm and messiness may be magic.*\
+🍏 エッセンスもいいが、リズムと雑味こそ魔術。
+
+**Hail Eris!🍏**
+
+---
+
+こちらもご覧ください➡️[ディスコーディアン魔術アーカイブ](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/README.md)
+
+---
+© 2025 知られざる呪術師（Le Sorcier Inconnu）  
+本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
